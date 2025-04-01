@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Primera Pagina</title>
+    <style>
+        body{
+            background-color: rgb(248, 195, 218);
+        }
+    </style>
+</head>
+<body>
+    <script>
+        function ponerTituloRojo(){
+            document.getElementById("titulo").style = "color: red"
+        }
+
+        function ponerTituloAzul(){
+            document.getElementById("titulo1").style="color:blue"
+        }
+    </script>
+    <h1 id="titulo" onmouseover="ponerTituloRojo()">Bienvenido</h1>
+    <h2 id="titulo1" onmouseover="ponerTituloAzul()">Este es el primer paso a la programacion</h2>
+     <p>Esta Pagina es muy sencilla</p>
+     <p>Pero tienen un secreto >>>> Precione F12</p>
+
+</body>
+</html>
