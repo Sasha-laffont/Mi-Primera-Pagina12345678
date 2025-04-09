@@ -1,0 +1,9 @@
+/*selector de 2 clases*/
+.texto{
+    background-color: rgb(177, 252, 162);
+}
+.texto.azul.mayusculas{
+    color: rgb(63, 108, 255);
+    text-align: center;
+    font-size: 15px;
+}

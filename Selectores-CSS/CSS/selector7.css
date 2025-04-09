@@ -1,0 +1,6 @@
+/* 2 Elemento*/
+.texto,.oferta{
+    border: 4px solid rgb(243, 166, 194);
+    border-radius: 20%;
+    padding: 10px;
+}

@@ -1,0 +1,10 @@
+/*6,- selector de etiqueta y clase*/
+
+div.texto{
+    background-color: rgb(252, 210, 235);
+    color: rgb(246, 144, 222);
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+
+}

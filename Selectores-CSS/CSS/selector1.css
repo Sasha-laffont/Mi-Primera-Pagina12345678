@@ -1,0 +1,9 @@
+/*selector de etiqueta*/
+p{
+    text-align: center; /*alinea texto*/
+    font-size: 20px; /*tamaño de la fuente*/
+    color: rgb(240, 131, 151); /*color letras del p*/
+    text-transform: uppercase; /*transforma el p mayuscula*/
+    background-color: rgb(255, 239, 247); /*color subrayado*/
+    
+}

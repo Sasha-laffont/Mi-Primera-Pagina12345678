@@ -1,0 +1,6 @@
+/*selector de clase*/
+.primer-parrafo{
+    font-size: 18px;
+    color: rgb(255, 0, 0);
+    text-transform: uppercase;
+}

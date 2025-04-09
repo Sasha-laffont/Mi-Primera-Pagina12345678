@@ -1,0 +1,9 @@
+/*selector por ID*/
+#encabezado{
+    text-transform: uppercase;
+    color: brown;
+    background:pink ;
+}
+.texto{
+    color: blueviolet;
+}
